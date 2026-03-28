@@ -1,0 +1,14 @@
+{
+  "name": "devops-git-actions",
+  "version": "1.0.0",
+  "description": "This is for learning devops git actions",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
